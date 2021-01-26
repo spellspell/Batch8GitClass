@@ -7,5 +7,7 @@ public class Main {
         System.out.println("hello batch 8");
 
         System.out.println("Second commit");
+
+        some changes
     }
 }
